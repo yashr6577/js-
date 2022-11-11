@@ -14,7 +14,7 @@ else if (b>a && b>c && b>d && b>f)
 }
 else if (c>a && c>b && c>d && c>f)
 {
-    alertg(c);
+    alert(c);
 }
 else if (d>a && d>c && d>b && d>f)
 {
