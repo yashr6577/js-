@@ -9,3 +9,4 @@ function set_background() {
   myp2 = myBodyElements[1];
   myp2.style.background = "rgb(255,255,0)";
 }
+Yash ra
